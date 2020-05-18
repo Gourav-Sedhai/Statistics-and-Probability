@@ -1,2 +1,2 @@
 # Statistics-and-Probability
-Mean
+Mean, Mode 
